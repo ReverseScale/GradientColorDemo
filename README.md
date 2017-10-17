@@ -3,7 +3,9 @@
 
 ## Effect 效果
 Gif 展示：
+
 ![](http://og1yl0w9z.bkt.clouddn.com/17-10-17/73624345.jpg)
+
 😆，闪瞎吧
 
 ## Usage 使用方法
